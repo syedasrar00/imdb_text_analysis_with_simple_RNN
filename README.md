@@ -1,0 +1,1 @@
+# imdb_text_analysis_with_simple_RNN
